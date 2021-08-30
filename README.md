@@ -3,7 +3,7 @@ A Telegram Bot Written In Python To Upload Medias To telegra.ph
 
 ### DEPLOY
 *CLICK THE BELOW IMAGE TO DEPLOY THE BOT*
-[![Deploy](https://telegra.ph/file/a8738fdea85a15aa86de0.jpg)](https://heroku.com/deploy?template=https://github.com/MR-SHRLCK/Telegraph-Bot/)
+[![Deploy](https://telegra.ph/file/a8738fdea85a15aa86de0.jpg)](https://heroku.com/deploy?template=https://github.com/KIRANRAJ6554/Telegraph-Bot/)
 ### Contact me through [Telegram](t.me/Xaira_bot)
 # Local Machine
 Clone the repository
