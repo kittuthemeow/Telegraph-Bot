@@ -85,8 +85,8 @@ async def home(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('Our Channel', url='http://telegram.me/indusbots'),
-        InlineKeyboardButton('Source Code', url='https://github.com/benchamxd/Telegra.ph-Uploader')
+        InlineKeyboardButton('Our Channel', url='https://t.me/tamilchatkinggroup'),
+        InlineKeyboardButton('Source Code', url='https://github.com/KIRANRAJ6554/Telegraph-Bot/')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
